@@ -1,0 +1,10 @@
+python-pptx>=1.0
+Pillow>=10
+lxml>=4.9
+
+# optional: render_charts=True
+# matplotlib>=3.7
+
+# tests only
+# numpy
+# openpyxl
